@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import BorderLightButton from './pages/Button/BorderLightButton';
+import GradationButton from './pages/Button/GradationButton';
 import InteractionButton from './pages/Button/InteractionButton';
 import TextUpInput from './pages/Input/TextUpInput';
 
@@ -59,6 +60,12 @@ function App() {
 						<S.Title>Border-Light-Button</S.Title>
 						<S.Content>
 							<InteractionButton />
+						</S.Content>
+					</S.Box>
+					<S.Box>
+						<S.Title>Gradation-Button</S.Title>
+						<S.Content>
+							<GradationButton />
 						</S.Content>
 					</S.Box>
 					<S.Box>
