@@ -1,5 +1,5 @@
 # 1일 1개 1머지 목표 정관훈의 css 재롱잔치
-#### This material is made for learning.
+#### This file is made for learning. (react, typescript, styled-components)
 #### (참고) insta.id : happy.frontend
 <br>
 
@@ -15,4 +15,3 @@
 |  :---------------------------------------------------------------------------------------------------------------------------------:|
 |               <img width="200px" height="140px" src="https://user-images.githubusercontent.com/110619143/207402814-c2b1a355-c0f3-4d70-abb4-9984b8746aa0.gif" alt="avatar" />                      |
 
-# cssstore
